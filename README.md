@@ -1,1 +1,1 @@
-# Yes_BAnk_Stock_Price_Prediction-pk-
+Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it will be interesting to see that whether Time series models or any other predictive models can do justice to such situations. 
